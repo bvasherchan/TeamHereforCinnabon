@@ -1,5 +1,5 @@
-**Business Problem Statement - Maverik**
-**Group: Here for the Cinnabon**
+Business Problem Statement - Maverik
+Group: Here for the Cinnabon
 
 Maverick needs an accurate daily forecast of sales KPIs for a new store's first year of sales. Achieving this allows for more effective financial planning and accurate ROI documents. 
 This project will be a success if it is able to yield a better forecast than the current model. Stakeholders will measure success with error rate RMSE, MAPE, model fit (AIC &, R²), and overall accuracy.
