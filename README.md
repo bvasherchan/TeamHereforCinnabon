@@ -12,6 +12,6 @@ This repository is our group's complete implementation for MSBA Capstone Final P
 
 1. [Business Problem Statement](Business_Problem_Statement)
 2. [EDA Notebook](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/Final_Maverik_EDA.ipynb)
-3. [Final Modeling Notebook](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/prophet_msba_final.ipynb)
-4. [Modeling Assignment](Modeling_Assignment.html) [Click "Download" to view the html file.]
+3. [Modeling Assignment](Modeling_Assignment.html) [Click "Download" to view the html file.]
+4. [Final Modeling Notebook](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/prophet_msba_final.ipynb)
 5. [Presentation slides](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/Maverik%20Revenue%20Forecast%20Slides.pdf)
