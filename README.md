@@ -11,7 +11,7 @@ This is the rolling forecast ```Prophet``` model shown in the presentation for M
 This repository is our group's complete implementation for MSBA Capstone Final Project. Below are the materials from this course.
 
 1. [Business Problem Statement](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/Maverick_%20Business%20Problem%20Statement.docx) [Click "View Raw" to view the document.]
-2. [Click] [Business Problem Statement](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/Maverick_%20Business%20Problem%20Statement.docx) [and "View Raw" to view the document.]
+2. Click [Business Problem Statement](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/Maverick_%20Business%20Problem%20Statement.docx) and "View Raw" to view the document.
 4. [EDA Notebook](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/Final_Maverik_EDA.ipynb)
 5. [Final Modeling Notebook](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/prophet_msba_final.ipynb)
 6. [Modeling Assignment](Modeling_Assignment.html) [Click "Download" to view the html file.]
