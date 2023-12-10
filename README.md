@@ -10,9 +10,7 @@ This is the rolling forecast ```Prophet``` model shown in the presentation for M
 
 This repository is our group's complete implementation for MSBA Capstone Final Project. Below are the materials from this course.
 
-1. [Business Problem Statement](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverick_%20Business%20Problem%20Statement.docx)
-2. [Presentation Slides](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverik%20Revenue%20Forecast.pptx)
-3. [Business Problem Statement]
+1. [Business Problem Statement](https://github.com/bvasherchan/TeamHereforCinnabon/blob/main/Maverick_%20Business%20Problem%20Statement.docx)
 4. [EDA Notebook]
 5. [Modeling Notebook]
 6. [Presentation slides]
